@@ -1,0 +1,44 @@
+body{
+  background-image: url("beautiful-ocean-1920-x-1080-wallpaper-6jqhuq00bpza7ceb.jpg");
+  background-size: cover;
+  
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}  
+
+.all{
+  backdrop-filter: blur(5px);
+  padding: 50px;
+  font-size: 25px;
+  text-align: center;
+  display: flexbox;
+  margin-top: 200px;
+  border-radius: 100px;
+  
+}
+
+
+button:hover{
+  background-color: rgb(145, 144, 144);
+  transform:translateY(1px);
+  
+}
+
+
+input{
+  font-size:25px;
+  border-radius: 2px;
+  border: none;
+  padding: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+button{
+  font-size:25px;
+  border-radius: 2px;
+  border: none;
+  padding: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
